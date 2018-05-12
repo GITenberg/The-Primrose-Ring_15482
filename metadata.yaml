@@ -1,0 +1,35 @@
+_repo: The-Primrose-Ring_15482
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sawyer, Ruth
+    alias: Durand, Lucinda
+    birthdate: 1880
+    deathdate: 1970
+    gutenberg_agent_id: '6085'
+    url: http://www.gutenberg.org/2009/agents/6085
+description: "The Primrose Ring is a 1917 American drama silent film directed by Robert\
+  \ Z. Leonard and written by Marion Fairfax and Ruth Sawyer. The film stars Mae Murray,\
+  \ Tom Moore, Winter Hall, Billy Jacobs, Mayme Kelso and Loretta Young. The film\
+  \ was released on May 7, 1917, by Paramount Pictures.\nThe film is now lost.\n\n\
+  \n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15482'
+  wikidata: Q16254272
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medical fiction'
+- !lcsh 'Fairy tales'
+- !lcc 'PS'
+title: The Primrose Ring
+url: http://www.gutenberg.org/ebooks/15482
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Primrose_Ring
